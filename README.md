@@ -1,3 +1,5 @@
 # Git Practice
 Giới thiệu: Tôi là <CaoMinhKy>, MSSV <226512>.
+<<<<<<< HEAD
 Thay đổi nhánh main
+conflict-demo
