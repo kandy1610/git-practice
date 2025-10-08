@@ -4,3 +4,4 @@ Giới thiệu: Tôi là <CaoMinhKy>, MSSV <226512>.
 Thay đổi nhánh main
 conflict-demo
 Thêm ghi chú buổi 2
+Stash 1
